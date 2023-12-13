@@ -1,6 +1,7 @@
 package Operators;
 
 import java.util.Scanner;
+
 public class Oper_ex5 {
     static Scanner in = new Scanner(System.in);
 
